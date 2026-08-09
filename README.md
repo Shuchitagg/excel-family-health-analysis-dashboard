@@ -2,7 +2,7 @@
 
 An Excel portfolio project demonstrating **structured data management, formula-based analysis, KPI reporting, and dashboard visualization** using synthetic family-health data.
 
-> **Portfolio note:** All records in this project are synthetic and were created solely for demonstration and learning purposes. No real patient, participant, or personally identifiable information is included.
+> **Portfolio note:** All records in this project are synthetic and created solely for portfolio demonstration purposes. No real patient, participant, or personally identifiable information is included.
 
 ---
 
